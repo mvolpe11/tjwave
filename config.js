@@ -11,7 +11,7 @@ exports.TTSPassword = '4ykRc1iciBDy'; // Text to speech password
 exports.TTSUsername = '0b96e4dd-a23e-46b3-8b6e-38e4adc0a3b3';
 
 // Credentials for Watson Conversation service
-exports.ConPassword = 'GWlZm5bjhC7G'; // conversation service password
+exports.ConPassword = 'GW1ZM5bjhC7G'; // conversation service password
 exports.ConUsername = 'db65049c-ec24-4be5-8e87-ebd73eaf9963'; // conversation service username
 exports.ConWorkspace = ''; // Conversation workspace id
 
